@@ -1,0 +1,7 @@
+You can By Follwing way
+A. Repeate Last LAB to deploy GPT-4o model
+B. Take Azure OpenAI end point and key and ececute the LAB
+
+Install followin package 
+A.Right Click on Python file name and open on integrated terminal 
+B.Install following packages- pip install openai==0.28 dotenv pandas pillow
